@@ -1,5 +1,5 @@
 package App::Milter::Limit::Plugin::SQLite;
-$App::Milter::Limit::Plugin::SQLite::VERSION = '0.50';
+our $VERSION = '0.51';
 
 # ABSTRACT: SQLite driver for App::Milter::Limit
 
@@ -230,7 +230,7 @@ App::Milter::Limit::Plugin::SQLite - SQLite driver for App::Milter::Limit
 
 =head1 VERSION
 
-version 0.50
+version 0.51
 
 =head1 SYNOPSIS
 

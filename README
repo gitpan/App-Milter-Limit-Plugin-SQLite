@@ -1,7 +1,7 @@
 
 
-This archive contains the distribution App-Milter-Limit-Plugin-SQLite,
-version 0.50:
+This archive contains the distribution App-Milter-Limit-Plugin-SQLite, version
+0.51:
 
   SQLite driver for App::Milter::Limit
 
@@ -9,5 +9,4 @@ This software is copyright (c) 2010 by Michael Schout.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
-
 
